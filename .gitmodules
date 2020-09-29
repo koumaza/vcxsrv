@@ -1,0 +1,90 @@
+[submodule "zlib"]
+	path = zlib
+	url = https://github.com/cloudflare/zlib.git
+[submodule "pixman"]
+	path = pixman
+	url = https://gitlab.freedesktop.org/pixman/pixman.git
+[submodule "xorg-server"]
+	path = xorg-server
+	url = https://gitlab.freedesktop.org/xorg/xserver.git
+[submodule "xkbcomp"]
+	path = xkbcomp
+	url = https://gitlab.freedesktop.org/xorg/app/xkbcomp.git
+[submodule "xcb-util-errors"]
+	path = xcb-util-errors
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-errors.git
+[submodule "tools/plink"]
+	path = tools/plink
+	url = https://github.com/larsbrinkhoff/supdup-putty.git
+[submodule "pthreads"]
+	path = pthreads
+	url = https://github.com/tpruvot/pthreads.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "mkfontscale"]
+	path = mkfontscale
+	url = https://gitlab.freedesktop.org/xorg/app/mkfontscale.git
+[submodule "bdftopcf"]
+	path = bdftopcf
+	url = https://gitlab.freedesktop.org/xorg/util/bdftopcf.git
+[submodule "mesalib"]
+	path = mesalib
+	url = https://gitlab.freedesktop.org/mesa/mesa.git
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://gitlab.freedesktop.org/fontconfig/fontconfig.git
+[submodule "libxkbfile"]
+	path = libxkbfile
+	url = https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git
+[submodule "libxcb"]
+	path = libxcb
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb.git
+[submodule "libfontenc"]
+	path = libfontenc
+	url = https://gitlab.freedesktop.org/xorg/lib/libfontenc.git
+[submodule "libXt"]
+	path = libXt
+	url = https://gitlab.freedesktop.org/xorg/lib/libxt.git
+[submodule "libX11"]
+	path = libX11
+	url = https://gitlab.freedesktop.org/xorg/lib/libx11.git
+[submodule "libXau"]
+	path = libXau
+	url = https://gitlab.freedesktop.org/xorg/lib/libxau.git
+[submodule "libXaw"]
+	path = libXaw
+	url = https://gitlab.freedesktop.org/xorg/lib/libxaw.git
+[submodule "libXdmcp"]
+	path = libXdmcp
+	url = https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git
+[submodule "libXext"]
+	path = libXext
+	url = https://gitlab.freedesktop.org/xorg/lib/libxext.git
+[submodule "libXfixes"]
+	path = libXfixes
+	url = https://gitlab.freedesktop.org/xorg/lib/libxfixes.git
+[submodule "libXfont2"]
+	path = libXfont2
+	url = https://gitlab.freedesktop.org/xorg/lib/libxfont.git
+[submodule "libXft"]
+	path = libXft
+	url = https://gitlab.freedesktop.org/xorg/lib/libxft.git
+[submodule "libXinerama"]
+	path = libXinerama
+	url = https://gitlab.freedesktop.org/xorg/lib/libxinerama.git
+[submodule "libXmu"]
+	path = libXmu
+	url = https://gitlab.freedesktop.org/xorg/lib/libxmu.git
+[submodule "libXpm"]
+	path = libXpm
+	url = https://gitlab.freedesktop.org/xorg/lib/libxpm.git
+[submodule "libXrender"]
+	path = libXrender
+	url = https://gitlab.freedesktop.org/xorg/lib/libxrender.git
+[submodule "freetype"]
+	path = freetype
+	url = https://git.sv.nongnu.org/r/freetype/freetype2.git
+[submodule "expat"]
+	path = expat
+	url = https://github.com/libexpat/libexpat.git
